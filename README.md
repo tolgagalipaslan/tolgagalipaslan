@@ -9,7 +9,7 @@
 
 <br/>
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,blender,vscode,github,linkedin,python,unity,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,blender,vscode,github,linkedin,python,unity,tailwindcss,express,nodejs,mongodb,netlify,react,vite,postman,discord&theme=dark" />
 <br/>
 <br/>
 <div width="50%"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=tolgagalipaslan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
