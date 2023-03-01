@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👨‍✈️ Hey! I am Tolga Galip ASLAN</h1>
 
-<h4>🚀 I am a front-end developer </b></h4>
+<h4>🚀 I am  front-end developer </b></h4>
 <div align="center">
 
 
